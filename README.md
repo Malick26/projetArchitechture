@@ -1,5 +1,8 @@
 # projetArchitechture
 
+Participants :
+Malick Wane
+Pape Toule Yade
 Guide d'Installation 
 Prérequis :
 
